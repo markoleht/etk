@@ -1,2 +1,4 @@
 [08-Apr-2020 11:44:39 UTC] PHP Warning:  require_once(/wp-load.php): failed to open stream: No such file or directory in /home/lehtmarkoiktkhk/public_html/etk/wp-content/plugins/gitium/gitium-webhook.php on line 23
 [08-Apr-2020 11:44:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/wp-load.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/lehtmarkoiktkhk/public_html/etk/wp-content/plugins/gitium/gitium-webhook.php on line 23
+[08-Apr-2020 11:49:39 UTC] PHP Warning:  require_once(/wp-load.php): failed to open stream: No such file or directory in /home/lehtmarkoiktkhk/public_html/etk/wp-content/plugins/gitium/gitium-webhook.php on line 23
+[08-Apr-2020 11:49:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/wp-load.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/lehtmarkoiktkhk/public_html/etk/wp-content/plugins/gitium/gitium-webhook.php on line 23
